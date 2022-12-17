@@ -19,7 +19,7 @@ export class HomeComponent implements OnInit {
     "I'm Feeling Puzzled",
     "I'm Feeling Trendy",
     "I'm Feeling Stellar",
-    "I'm Feeling Wonderful"
+    "I'm Feeling Curious"
   ]
 
     constructor(){ }
